@@ -11,7 +11,7 @@ What I am learning:
 
     How to build natural language processing systems using TensorFlow.
 
-    Apply RNNs, GRUs, and LSTMs as you train them using text repositories.
+    How to apply RNNs, GRUs, and LSTMs as I train them using text repositories.
 
 Skills gained:
 
